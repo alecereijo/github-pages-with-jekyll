@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Blog rios"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Esta es la primera entrada de mi blog
